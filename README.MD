@@ -2,7 +2,7 @@
 > TRILHA EXPLORER
 
 ![preview](./Print1.jpeg)
-![preview](./Print1.jpeg)
+![preview](./Print2.jpeg)
 
 ## 🔧 Tecnologias 🔧
 
